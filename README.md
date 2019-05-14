@@ -3,6 +3,6 @@
 ## 기본 환경 세팅
 
 ```python
-$ git clone https://github.com/mongkyo/Basic_Project.git <폴더 이름>
+ $ git clone https://github.com/mongkyo/Basic_Project.git <폴더 이름>
 
 ```
